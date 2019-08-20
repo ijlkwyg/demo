@@ -3,4 +3,4 @@
  注：数据库采用的是 Firebase 需翻墙使用  
 
 #首页   
-![images](https://github.com/ijlkwyg/demo/tree/master/images/Home.png)
+![images](https://raw.githubusercontent.com/ijlkwyg/demo/master/images/Home.png)
